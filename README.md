@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hüsnü!</h1>
-<h3 align="center">A passionate mobile developer from Turkey</h3>
+<h3 align="center">A passionate software developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Ionic and Angular projects**
 
@@ -11,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/husnutass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="husnutass" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/husnu-tas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="husnu-tas" height="30" width="40" /></a>
 <a href="https://instagram.com/husnutass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="husnutass" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/husnutas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="husnutas" height="30" width="40" /></a>
