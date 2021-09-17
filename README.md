@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hüsnü!</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Ionic and Angular projects**
+- 🔭 I’m currently working on **Ionic and Angular** projects
 
 - 🌱 I’m currently learning **Swift**
 
