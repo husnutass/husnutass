@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hüsnü!</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Ionic and Angular** projects
+- 🔭 I’m currently working on **iOS** projects
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **SwiftUI**
 
-- 💬 Ask me about **Ionic, Flutter**
+- 💬 Ask me about **Swift**
 
 - 📫 How to reach me **husnutas@outlook.com**
 
