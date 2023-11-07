@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **iOS** projects
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Kotlin/Jetpack Compose**
 
-- 💬 Ask me about **Swift**
+- 💬 Ask me about **iOS Development**
 
 - 📫 How to reach me **husnutas@outlook.com**
 
